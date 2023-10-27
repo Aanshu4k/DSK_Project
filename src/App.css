@@ -1,0 +1,15 @@
+
+
+.App {
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.App-link {
+  color: #61dafb;
+}
+.mr-auto{
+  padding: '0px';
+}

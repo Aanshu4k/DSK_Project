@@ -1,0 +1,17 @@
+.toll-number {
+    display: flex;
+    flex-direction: row;
+
+
+    flex-direction: end;
+}
+a {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+/* img {
+    width: 32px;
+    height: 32px;
+    margin-right: 8px;
+} */
